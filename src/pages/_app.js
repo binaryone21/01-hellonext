@@ -1,5 +1,4 @@
-import '@/styles/globals.css'
-
+// @ 가 src 를 의미함.
 export default function App({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
